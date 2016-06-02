@@ -254,4 +254,6 @@ The order of the search terms might be different when you run it.
 Also, run `ant test2` to confirm that this part of the lab is complete.
 
 
-This lab involved more reading that some of the others, and not as much programming.  But we hope you learned a lot.  Congratulations on getting to the end!
+This lab involved more reading than some of the others, and not as much programming.  But we hope you learned a lot.  Congratulations on getting to the end!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/cs-making-an-indexer-lab'>Making an Indexer Lab</a> on Learn.co and start learning to code for free.</p>
